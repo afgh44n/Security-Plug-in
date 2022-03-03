@@ -2,42 +2,18 @@
 These are safety and security plug-ins.
 
 # Available Add-ons
-uBlock Origin
+uBlock Origin (https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr)
 
-Google : https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr
+HTTPS Everywhere (https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=fr)
 
-Firefox : https://addons.mozilla.org/fr/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+ClearURLs (https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk?hl=fr)
 
-HTTPS Everywhere
+Cookie AutoDelete (https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=fr)
 
-Google : https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=fr
+Don't track me Google (https://chrome.google.com/webstore/detail/dont-track-me-google/gdbofhhdmcladcmmfjolgndfkpobecpg)
 
-Firefox : https://addons.mozilla.org/fr/firefox/addon/https-everywhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Privacy Badger (https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 
-ClearURLs
+Canvas Fingerprint Defender (https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp)
 
-Google : https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk?hl=fr
-
-Firefox : https://addons.mozilla.org/fr/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
-
-Cookie AutoDelete
-
-Google : https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=fr
-
-Firefox : https://addons.mozilla.org/fr/firefox/addon/cookie-autodelete/
-
-Don't track me Google
-Google :
-Firefox :
-
-Privacy Badger
-Google :
-Firefox :
-
-Canvas Fingerprint Defender
-Google :
-Firefox :
-
-AudioContext Fingerprint Defender
-Google :
-Firefox :
+AudioContext Fingerprint Defender (https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe)
