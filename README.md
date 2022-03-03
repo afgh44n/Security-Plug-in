@@ -70,9 +70,6 @@ This is my list of security and privacy plug-ins. Take a look at the best privac
 # Legal Disclaimer
 I assume no responsibility and am not liable for any misuse or damage caused by these extensions.
 
-# License
-Licensed by me.
-
 # Author
 Afgh44n
 
