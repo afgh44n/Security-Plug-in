@@ -2,7 +2,7 @@
 This is my list of security and privacy plug-ins. (That I use on Google).
 
 # What is it?
-This is my list of privacy plug-ins. Take a look at the best privacy plugins I've chosen for you.
+This is my list of security and privacy plug-ins. Take a look at the best privacy plugins I've chosen for you.
 
 # My list of plug-ins
 ∙ uBlock Origin (https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=fr)
