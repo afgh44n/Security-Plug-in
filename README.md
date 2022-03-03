@@ -1,5 +1,5 @@
 # Plug-ins
-This is my list of security and privacy plug-ins. (That I use on Google).
+This is my list of security and privacy plug-ins in a web browser. (That I use on Google).
 
 # What is it?
 This is my list of security and privacy plug-ins. Take a look at the best privacy plugins I've chosen for you.
